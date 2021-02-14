@@ -1,0 +1,14 @@
+.error_container_parent {
+  width: 50%;
+  margin: auto;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  span {
+    font-weight: bold;
+    font-size: 17px;
+    margin: 20px 0;
+  }
+}

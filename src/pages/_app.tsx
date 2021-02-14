@@ -48,7 +48,7 @@ const MyApp = ({ Component, pageProps }) => {
               </li>
             </ul>
           </nav> */}
-{/* 
+          {/* 
           <a className='start'>Open panel</a>
           <a className='login'>Sign in</a> */}
         </div>
